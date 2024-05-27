@@ -1,7 +1,7 @@
 {
   "name": "deedeeg-my-package-10982367019823",
   "main": "./lib/deedeeg-my-package-10982367019823",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
